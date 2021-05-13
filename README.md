@@ -1,3 +1,5 @@
+![My dogs flying through the galaxy](https://pbs.twimg.com/profile_banners/23724008/1590869821/1500x500)
+
 ## Hi there 👋
 
 I'm a freelance developer, international conference speaker, workshop instructor, and community organizer. I like to make the web fast and build on Jamstack and serverless.
