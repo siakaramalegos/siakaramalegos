@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm a freelance developer, international conference speaker, workshop instructor, and community organizer. I like to make the web fast and build on Jamstack and serverless.
+I'm a web developer working on web performance at Shopify. I'm also an international conference speaker, workshop instructor, and community organizer. I like to make the web fast and build on Jamstack and serverless.
 
 My services include:
 
