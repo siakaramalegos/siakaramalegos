@@ -1,4 +1,4 @@
-![My dogs flying through the galaxy](https://pbs.twimg.com/profile_banners/23724008/1590869821/1500x500)
+![My dogs flying through the galaxy](https://res.cloudinary.com/siacodes/image/upload/q_auto,f_auto,w_1856/v1607719366/other/Space_k3bvlo.jpg)
 
 ## Hi there 👋
 
