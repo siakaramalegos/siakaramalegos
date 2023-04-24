@@ -1,4 +1,4 @@
-![My dogs flying through the galaxy](https://res.cloudinary.com/siacodes/image/upload/q_auto,f_auto,w_1856/v1607719366/other/Space_k3bvlo.jpg)
+![My dogs flying through the galaxy](https://res.cloudinary.com/siacodes/image/upload/q_auto,f_auto,w_1856/v1607719366/other/Space_k3bvlo2.jpg)
 
 ## Hi there 👋
 
