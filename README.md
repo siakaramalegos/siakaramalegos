@@ -11,7 +11,7 @@ My services include:
 - 🧑‍🤝‍🧑 General coaching
 - ✍️ Content development on web topics
 
-On my website, [sia.codes](https://sia.codes/), you can learn more about me, read my blog, or contact me for a project or conference talk. Or, chat with me on [Twitter](https://twitter.com/thegreengreek)!
+On my website, [sia.codes](https://sia.codes/), you can learn more about me, read my blog, or contact me for a project or conference talk. Or, chat with me on [Mastodon](https://front-end.social/@sia)!
 
 <!--
 **siakaramalegos/siakaramalegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
