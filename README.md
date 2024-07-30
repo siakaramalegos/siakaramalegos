@@ -1,8 +1,8 @@
-![My dogs flying through the galaxy](https://res.cloudinary.com/siacodes/image/upload/q_auto,f_auto,w_1856/v1607719366/other/Space_k3bvlo2.jpg)
+![My dogs flying through the galaxy](https://res.cloudinary.com/siacodes/image/upload/q_auto,f_auto,w_1856/v1607719366/other/i_like_to_make_the_web_fast_qjlt4c.jpg)
 
 ## Hi there 👋
 
-I'm a web developer working on web performance at Shopify. I'm also an international conference speaker, workshop instructor, and community organizer. I like to make the web fast and build on Jamstack and serverless.
+I'm a freelance web performance engineer and web developer. I'm also an international conference speaker, workshop instructor, and community organizer. I like to make the web fast and build on Jamstack and serverless.
 
 My services include:
 
